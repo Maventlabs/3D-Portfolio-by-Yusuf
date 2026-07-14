@@ -14,7 +14,7 @@ const DECOR_IMAGES = {
 };
 
 const ABOUT_TEXT =
-  "With more than five years of experience in design, i focus on branding, web design, and user experience, i truly enjoy working with businesses that aim to stand out and present their best image. Let's build something incredible together!";
+  "I build intelligent digital products by combining full-stack development, AI, and IoT. Passionate about scalable systems, modern web technologies, and automation, I enjoy turning ambitious ideas into reliable, real-world solutions. Let's build something impactful together.";
 
 export default function AboutSection() {
   return (

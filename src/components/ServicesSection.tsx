@@ -2,29 +2,29 @@ import FadeIn from './FadeIn';
 
 const SERVICES = [
   {
-    name: '3D Modeling',
+    name: 'Full-Stack Development',
     description:
-      'Creation of detailed objects, characters, or environments tailored to specific client needs, ideal for games, products, and visualizations.',
+      'Building modern, scalable web applications using React, Next.js, TypeScript, FastAPI, Go, and cloud-native technologies with a focus on performance and maintainability.',
   },
   {
-    name: 'Rendering',
+    name: 'AI & LLM Solutions',
     description:
-      'High-quality, photorealistic renders that showcase designs with custom lighting, textures, and materials to bring concepts to life.',
+      'Developing AI-powered applications with LLMs, RAG pipelines, intelligent agents, computer vision, and machine learning to automate workflows and solve complex problems.',
   },
   {
-    name: 'Motion Design',
+    name: 'IoT Systems',
     description:
-      'Dynamic animations and motion graphics that add energy and storytelling to brands, products, and digital experiences.',
+      'Designing end-to-end IoT solutions using ESP32, MQTT, Firebase, sensors, and real-time communication for industrial automation and smart monitoring.',
   },
   {
-    name: 'Branding',
+    name: 'Backend & API Engineering',
     description:
-      'Crafting cohesive visual identities — from logos to full brand systems — that communicate a clear and memorable presence.',
+      'Creating secure, scalable REST APIs, authentication systems, databases, and real-time services that power reliable and high-performance applications.',
   },
   {
-    name: 'Web Design',
+    name: 'Cloud & DevOps',
     description:
-      'Designing clean, modern, and conversion-focused websites with attention to layout, typography, and user experience.',
+      'Deploying and maintaining production-ready applications with Docker, CI/CD pipelines, monitoring, Linux servers, and modern infrastructure practices.',
   },
 ];
 
